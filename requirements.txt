@@ -1,0 +1,14 @@
+# requirements.txt
+pandas (imported as pd) - Used for data manipulation and analysis.
+
+seaborn (imported as sns) - Used for data visualization, providing a high-level interface for creating informative and attractive statistical graphics.
+
+numpy (imported as np) - Used for numerical and mathematical operations on arrays and matrices.
+
+statsmodels - A library used for statistical analysis and hypothesis testing.
+
+sklearn - The scikit-learn library, which provides simple and efficient tools for machine learning, including various algorithms for classification, regression, clustering, dimensionality reduction, and more.
+
+matplotlib.pyplot (imported as plt) - Used for creating static, animated, or interactive visualizations in Python.
+fuzzywuzzy
+
